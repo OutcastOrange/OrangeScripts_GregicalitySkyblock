@@ -18,5 +18,7 @@ Download these files and add them to the scripts directory:
 These script files can be used independently (per mod), but most require "orange - Additions" to function.
 
 If you intend to use AutomatedRedstone, make sure you get these exact mod versions:
+
   "CD4017BE Library"    CD4017BE_lib-1.12.2-6.4.18.jar
+  
   "Automated Redstone"  AutomatedRedstone-1.12.2-6.1.6.jar
