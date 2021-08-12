@@ -7,6 +7,7 @@ This is just a snapshot of my scripts as of August 8th, 2021.
 I made these scripts with minimal understanding. These scripts are highly amateur.
 There are probably some redundant lines.
 A lot of these imports are probably not doing anything.
+
 Suggestions for improvements are welcome.
 
 # Instructions #
