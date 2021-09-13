@@ -2,7 +2,7 @@
 
 These scripts are intended to be used with the modpack Gregicality Skyblock Edition.
 I'll be modifying and tweaking them as I play through the pack, but this text upload might not be updated.
-This is just a snapshot of my scripts as of August 8th, 2021.
+This is just a snapshot of my scripts as of September 13th, 2021.
 
 I made these scripts with minimal understanding. These scripts are highly amateur.
 There are probably some redundant lines.
