@@ -13,3 +13,6 @@ recipes.addShaped("easy_nametag", nametag,
   [[null,<ore:paper>,<ore:string>],
   <ore:paper>,<ore:nuggetGold>,<ore:paper>],
   [null,<ore:paper>,null]]);
+
+// concealment key doesn't require any LV machines
+recipes.addShapeless("easy_concealkey", <storagedrawers:shroud_key>,[<storagedrawers:drawer_key>,<ore:enderpearl>]);
